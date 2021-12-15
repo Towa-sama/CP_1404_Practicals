@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 Practical
-Colours' codes
+Colours' codes'
 """
 
 colour_codes = {"Absolutezero": "#0048ba", "Azure1": "#f0ffff", "Bistre": "#3d2b1f", "Blond": "#faf0be",
